@@ -11,9 +11,13 @@ The code is tested on Wemos D1 mini, but I am pretty sure, it will working on an
 You do not need any extra level shifting like on Arduino, just simple connect the ESP8266 to TX-20, because both working on 3.3V.
 
 TX20 RJ11  -> ESP PIN
+
 1	Brown	TxD  -> Any Digital pin (in code D2)
+
 2	Red	Vcc  -> 3.3V
+
 3	Green	DTR  -> Ground
+
 4	Yellow	GND  -> Ground
 
 #Customizing the code:
