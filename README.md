@@ -1,4 +1,4 @@
-# ESP8266_TX20_wind_sensor
+# ESP8266 TX20 wind sensor
 Technoline TX20 Wind Sensor on Wemos D1 mini (or any ESP8266)
 
 This simple file made to testing the TX20 Wind Sensor on ESP8266 based microcontrollers. 
